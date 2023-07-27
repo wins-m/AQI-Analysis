@@ -5,7 +5,7 @@ author:
 
 ## **Documentation for Air Quality Index Analysis**
 
-毛思文 吴逸涵 \| 学号：2201211276 2201211243
+毛XX 吴XX \| 学号：xxxx  xxxx
 
 Jan. 2023
 
